@@ -1,0 +1,46 @@
+body{
+    background-size: cover;
+    font-family: cursive;
+}
+.heading{
+    margin: 0;
+    width: 100%;
+    background: linear-gradient(180deg, white, lightgrey);
+    font-size: 35px;
+    box-shadow: 5px 5px 5px 2px grey;
+    line-height: 2;
+    padding: 10px;
+    font-weight: bold;
+    text-shadow: 5px 5px 5px grey;
+}
+.note{
+    border-radius: 20px;
+    border: 3px solid black;
+    padding: 10px;
+    font-weight: 100;
+    text-shadow: none;
+    font-size: 23px;
+}
+#name_of_object{
+    width: 300px;
+    height: 35px;
+    font-size: 20px;
+    color: black;
+    border: 1px solid black !important;
+    border-radius: 5px;
+}
+#start{
+    background: white;
+    color: black;
+    border-radius: 20px;
+    border: 1px solid black;
+    font-size: 25px;
+    margin: 0;
+}
+#start:hover{
+    box-shadow: 1px 1px 38px grey;
+}
+h3{
+    font-size: 18px;
+    margin-top: 0;
+}
